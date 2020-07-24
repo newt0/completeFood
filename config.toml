@@ -63,7 +63,7 @@ layout = "1"
 # Meta data
 description = "This is meta description"
 # Preloader
-preloader = true
+preloader = false
 # search
 search = true
 # about author
