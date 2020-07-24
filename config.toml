@@ -1,7 +1,7 @@
 # default config
 baseURL = "https://examplesite.org"
-languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+languageCode = "ja-jp"
+title = "食wave | 日本初の完全食メディア"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -66,19 +66,19 @@ preloader = true
 # search
 search = true
 # about author
-author = "Themefisher"
+author = "newt0"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "早大在学中に東大AIスタートアップAidemyにて事業開発部リーダー職を務め、月間売り上げ1000万円増を達成。株式会社ラグナロクにてフォトコンテストアプリ「Camecon」のフロントエンドを担当を経て、2020年にフリーランスエンジニアとして独立。"
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+# mobile = "+0807621"
+email = "kyohei.ito@kernel-dc.jp"
+address = "〒113-0033 東京都文京区本郷４丁目１−４ ユニゾ 本郷ビル 3階"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 [newt0](https://kyohei-works.netlify.app/)"
 
 # Instagram feed
 [params.instafeed]
@@ -89,16 +89,16 @@ access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/burger.king.you"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/kyohei_ai"
 
-[[params.social]]
-icon = "ti-linkedin"
-URL = "#"
+# [[params.social]]
+# icon = "ti-linkedin"
+# URL = "#"
 
 [[params.social]]
 icon = "ti-github"
-URL = "#"
+URL = "https://github.com/newt0"
