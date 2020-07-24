@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://examplesite.org"
+baseURL = "https://completefood.netlify.app/"
 languageCode = "ja-jp"
 title = "食wave | 日本初の完全食メディア"
 theme = "parsa-hugo"
