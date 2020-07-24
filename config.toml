@@ -61,7 +61,7 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "完全食を中心に、常識に囚われないスマートな食生活を提案するメディアです。"
 # Preloader
 preloader = false
 # search
