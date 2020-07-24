@@ -1,15 +1,15 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-8.jpg"
+title: "3ヶ月オートミール生活"
+date: 2020-8-01
+description: "完全栄養食"
+type: "featured"
+image: "images/featured-post/post-3.jpg"
 categories: 
-  - "Food"
+  - "完全栄養食"
 tags:
-  - "Photos"
-  - "Food"
+  - "Huel"
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

@@ -1,14 +1,14 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+title: "ボンタンアメ"
+date: 2020-07-20
+description: "完全栄養食"
 type: "post"
-image: "images/masonary-post/post-5.jpg"
+image: "images/masonary-post/post-3.jpg"
 categories: 
-  - "Food"
+  - "完全栄養食"
 tags:
-  - "Photos"
-  - "Food"
+  - "ダイエット"
+  - "エンジニア向け"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

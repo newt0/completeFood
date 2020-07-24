@@ -1,16 +1,15 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
+title: "カロリーメイト代替品の比較"
+date: 2020-07-20
+description: "完全栄養食"
+type: "post"
+image: "images/masonary-post/post-3.jpg"
 categories: 
-  - "Philosophy"
+  - "完全栄養食"
 tags:
-  - "Philosophy"
-  - "Photos"
+  - "ダイエット"
+  - "エンジニア向け"
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
