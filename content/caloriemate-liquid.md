@@ -1,9 +1,9 @@
 ---
-title: "Base Food"
+title: "カロリーメイトliquid"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/masonary-post/post-3.jpg"
+image: "images/caloriemate_liquid_top.png"
 categories: 
   - "完全栄養食"
 tags:

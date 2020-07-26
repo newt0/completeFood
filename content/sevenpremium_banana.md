@@ -1,9 +1,9 @@
 ---
-title: "Comp"
+title: "セブンプレミアム こだわりの贅沢バナナ"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/comp.png"
+image: "images/sevenpremium_banana.png"
 categories: 
   - "完全栄養食"
 tags:

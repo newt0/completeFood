@@ -1,9 +1,9 @@
 ---
-title: "Comp"
+title: "日清オートミール"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/comp.png"
+image: "images/oatmeal_nisshin.jpg"
 categories: 
   - "完全栄養食"
 tags:

@@ -3,7 +3,7 @@ title: "オートミール"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/masonary-post/post-3.jpg"
+image: "images/oatmeal.jpg"
 categories: 
   - "完全栄養食"
 tags:

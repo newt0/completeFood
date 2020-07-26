@@ -1,9 +1,9 @@
 ---
-title: "Comp"
+title: "Basepasta"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/comp.png"
+image: "images/base_pasta_2.png"
 categories: 
   - "完全栄養食"
 tags:

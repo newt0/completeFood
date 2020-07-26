@@ -1,9 +1,9 @@
 ---
-title: "Comp"
+title: "Hueltop"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/comp.png"
+image: "images/huel_top.png"
 categories: 
   - "完全栄養食"
 tags:

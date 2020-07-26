@@ -1,9 +1,9 @@
 ---
-title: "ナッツ"
+title: "小分け4種 ミックスナッツ 1.05kg"
 date: 2020-07-20
 description: "完全栄養食"
 type: "post"
-image: "images/masonary-post/post-3.jpg"
+image: "images/nuts_amazon.jpg"
 categories: 
   - "完全栄養食"
 tags:
