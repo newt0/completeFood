@@ -1,6 +1,6 @@
 ---
-title: ライトミールブロック(TOP VALUE)
-date: 2020-07-19T15:00:00+00:00
+title: カロリーメイトの代わりに！「ライトミールブロック」
+date: 2020-07-19T15:00:00.000+00:00
 description: カロリーメイトの代替品としておすすめのライトミール ブロック(TOP VALUE/トップバリュー)の紹介記事です。
 type: post
 image: images/lightmealblock_choco.jpg
