@@ -1,55 +1,89 @@
 ---
-title: "ライトミール"
-date: 2020-07-20
-description: "完全栄養食"
-type: "post"
-image: "images/lightmealblock_choco.jpg"
-categories: 
-  - "完全栄養食"
+title: ライトミールブロック(TOP VALUE)
+date: 2020-07-19T15:00:00+00:00
+description: カロリーメイトの代替品としておすすめのライトミール ブロック(TOP VALUE/トップバリュー)の紹介記事です。
+type: post
+image: images/lightmealblock_choco.jpg
+categories: []
 tags:
-  - "ダイエット"
-  - "エンジニア向け"
+- ダイエット
+- エンジニア向け
+- カロリーメイト
+- 軽食
+
 ---
+カロリーメイトの代わりを探している方におすすめなのが、「ライトミールブロック」です。カロリーメイトと同等の栄養ながら、約半額です。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+ライトミールブロックのコスパや栄養、利用シーンについて紹介します。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+##### ライトミールブロックとは
 
+イオン版のカロリーメイトです。
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+イオンのTOP VALUEというブランドから販売されています。
 
+**ライトミールはカロリーメイトと同等の栄養や味ながら、より廉価**なのが特徴です。
 
-![](../images/post-img.jpg)
+##### ライトミールのコスパ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**・本体価格 91円**（税込価格 98.28円）
 
+**・内容量 4本**(76g)
 
+**カロリーメイトの公式価格が200円※**（ブロックタイプ4本入り）なので**、ライトミール ブロックはカロリーメイトの約半額**です。
+
+※大塚製薬オンラインストアの価格。
+
+##### ライトミールの栄養
+
+全体的に**カロリーメイトよりヘルシー**となっています。
+
+**カロリーメイトに含まれる一部の栄養素がライトミール ブロックには含まれないものの、ほぼ同じ栄養素を保有しており、鉄分やビタミンB等一部項目は優っています**。
+
+###### カロリーメイトとの比較
+
+4本/76g当たり **※()内はカロリーメイトとの値の比較**
+
+* **エネルギー380kcal (-20kcal)**
+* たんぱく質5.6g(-3.1g)
+* **脂質21.3g(-1.1g)**
+* 糖質40.3g(+0.03)
+* **食物繊維2.4g(+0.4g)**
+* ナトリウム201mg(-119mg)
+* カルシウム200mg(=)
+* **鉄3.4mg(+1.9mg)**
+* **ビタミンA 270μg(+45μg)**
+* ビタミンE 4mg(=)
+* **ビタミンB1 0.6mg(+0.1mg)**
+* ビタミンB2 0.6mg(=)
+* **ナイアシン8.5mg(+3.0mg)**
+* **ビタミンB6 0.8mg(+0.3mg)**
+* **ビタミンB12 1.2μg(+0.2μg)**
+* 葉酸100μg(=)
+* **食塩相当量0.5g(-0.31g)**
+
+###### カロリーメイトに含まれていて、ライトミールに含まれない栄養
+
+* パントテン酸:2.8mg
+* リン:90mg
+* マグネシウム:50mg
+* ビタミンC:40mg 
+* ビタミンD:2.5μg
+
+##### 味
+
+ライトミールも十分美味しいですが、味の種類とクオリティではカロリーメイト側が一歩リードする印象です。
+
+* チョコ味
+* チーズ味
+* メープル味
+
+の3種類があります。
+
+##### 口コミ
+
+> 時間のない朝や小腹がすいたときによく食べています。コスパもよくて好きな味なので自分の一押しです。
+
+> ちょっとした小腹が空いた時のために、会社の机や出張時のかばんにいつも入れています。 帰宅難民になった時も、助けてもらった一品。
+
+> 安くて美味しくて、お昼前にお腹すいちゃった時とか、部活前後とかに重宝しています
